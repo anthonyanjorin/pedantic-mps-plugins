@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/plantuml/languages/de.anjorin.mps.pedantic.plantuml/de.anjorin.mps.pedantic.plantuml.mpl" folder="PlantUML" />
+      <modulePath path="$PROJECT_DIR$/plantuml/solutions/de.anjorin.mps.pedantic.plantuml.pluginSolution/de.anjorin.mps.pedantic.plantuml.pluginSolution.msd" folder="PlantUML" />
+    </projectModules>
+  </component>
+</project>

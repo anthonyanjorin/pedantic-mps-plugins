@@ -1,0 +1,22 @@
+# Local IDE workspace settings
+/.mps/workspace.xml
+/.mps/vcs.xml
+/workspace.xml
+*.iws
+
+# MPS Generated code and caches (globally and in sub-folders)
+**/source_gen/
+**/source_gen.caches/
+**/classes_gen/
+**/test_gen/
+**/test_gen.caches/
+
+# Standard Java/IntelliJ ignores
+*.class
+*.jar
+*.war
+*.ear
+
+# OS-specific files
+.DS_Store
+Thumbs.db
